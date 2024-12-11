@@ -1,0 +1,9 @@
+jupyter
+opencv-python
+matplotlib
+numpy==1.23.5
+gym==0.25.2
+gym[atari]
+autorom[accept-rom-license]
+typing-extensions>=4.0.0
+torch
